@@ -6,7 +6,7 @@
 
 ### Tutos débutants
 
-- Fais bonger des pinces
+- [Programme démo Arduino pince](https://github.com/CLT-38/pinces/tree/main) fais bouger des pinces
 
 ### Tutos intermédiaires
 
