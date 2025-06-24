@@ -4,6 +4,10 @@
 
 ## Tutos
 
+### Premier tuto
+
+- Ce [tout premier tuto](https://github.com/CLT-38/nano-led/) te permettra de te familiariser avec la programmation de micro-contrôleur
+
 ### Tutos débutants
 
 - [Programme démo Arduino](https://github.com/CLT-38/basic-arduino) : programme d'exemples de commandes à envoyer sur un Arduino
