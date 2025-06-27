@@ -6,7 +6,8 @@
 
 ### Premier tuto
 
-- Ce [tout premier tuto](https://github.com/CLT-38/nano-led/) te permettra de te familiariser avec la programmation de micro-contrôleur
+- **Arduino Nano** Ce [tout premier tuto](https://github.com/CLT-38/nano-led/) te permettra de te familiariser avec la programmation de micro-contrôleur Arduino Nano
+- **Raspberry Pico** Ce [tout premier tuto](https://github.com/CLT-38/demo-pico/) te permettra de te familiariser avec la programmation de micro-contrôleur Raspberry Pico
 
 ### Tutos débutants
 
