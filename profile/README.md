@@ -15,7 +15,8 @@
 
 ### Tutos débutants ++
 
-- [Programme démo Arduino pince](https://github.com/CLT-38/pinces/tree/main) fais bouger des pinces
+- [Programme démo Arduino pince](https://github.com/CLT-38/pinces/) : fais bouger des pinces
+- [Programme démo Arduino Nano](https://github.com/CLT-38/moteur-cc) : pilote un moteur courant continu avec un pont en H
 
 ### Tutos intermédiaires
 
