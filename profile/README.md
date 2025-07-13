@@ -21,7 +21,8 @@
 ### Tutos intermédiaires
 
 - [Code démo depuis PC](https://github.com/CLT-38/basic-pc/) : pilote le robot depuis un PC avec les flèches du clavier
-- [Programme démo Raspberry Pico](https://github.com/CLT-38/blescan-pico/) : scanne les appareils Bluetooth à proximité et affiche leurs adresses MAC ainsi que certaines informations comme le nom ou le constructeur
+- [Programme BLE Raspberry Pico](https://github.com/CLT-38/blescan-pico/) : scanne les appareils Bluetooth à proximité et affiche leurs adresses MAC ainsi que certaines informations comme le nom ou le constructeur
+- [Programme Joystick Raspberry Pico](https://github.com/CLT-38/joystick-pico/) : calibre un mini joystick avec les 4 directions
 
 ### Tutos intermédiaires ++
 
