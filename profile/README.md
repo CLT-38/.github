@@ -29,6 +29,10 @@
 - [Programme BLE Raspberry Pico](https://github.com/CLT-38/bleconnect-pico/) : se connecte en Bluetooth au robot roulant et envoie une série d'instructions pour faire déplacer le robot
 - [Application démo Android](https://github.com/CLT-38/mit-app-inventor-ble/tree/main) pour Smartphone Android ; Blue Tooth Low Energy : pilote le robot depuis un Smartphone
 
+### Tutos avancés
+
+- [Programme BLE Raspberry Pico](https://github.com/CLT-38/bleconnect-joystick-pico/) : se connecte en Bluetooth au robot roulant et permet le pilotage du robot roulant par un petit joystick
+
 ### Tutos bonus
 
 - [Pilotage robot via llm mcp](https://github.com/CLT-38/mcp-pilot) : donne un prompt à un github copilot pour faire bouger le robot
