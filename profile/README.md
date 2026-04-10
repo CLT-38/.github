@@ -37,3 +37,7 @@
 ### Tutos bonus
 
 - [Pilotage robot via llm mcp](https://github.com/CLT-38/mcp-pilot) : donne un prompt à un github copilot pour faire bouger le robot
+
+### Utilitaire
+
+ - [Obtenir les adresses MAC](https://github.com/CLT-38/macaddress)
