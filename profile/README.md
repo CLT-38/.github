@@ -17,7 +17,6 @@
 
 - [Programme démo Arduino pince](https://github.com/CLT-38/pinces/) : fait bouger des pinces
 - [Programme démo Arduino Nano](https://github.com/CLT-38/moteur-cc) : pilote un moteur courant continu avec un pont en H
-- [Programme démo Arduino Nano](https://github.com/CLT-38/pami-en-carton) : fait rouler un PAMI en carton
 
 ### Tutos intermédiaires
 
