@@ -9,10 +9,6 @@
 - **Arduino Nano** Ce [tout premier tuto](https://github.com/CLT-38/nano-led/) te permettra de te familiariser avec la programmation de micro-contrôleur Arduino Nano
 - **Raspberry Pico** Ce [tout premier tuto](https://github.com/CLT-38/demo-pico/) te permettra de te familiariser avec la programmation de micro-contrôleur Raspberry Pico
 
-### Tutos débutants
-
-- [Programme démo Arduino](https://github.com/CLT-38/basic-arduino) : programme d'exemples de commandes à envoyer sur un Arduino pour dessiner sur la matrice de LED
-
 ### Tutos débutants ++
 
 - [Programme démo Arduino pince](https://github.com/CLT-38/pinces/) : fait bouger des pinces
